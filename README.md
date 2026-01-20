@@ -65,21 +65,26 @@ AtliQ Grands generated ₹1.71 billion in revenue across 134.6K bookings with an
 - **Only 70.1% of bookings convert to stays**, confirming major leakage from cancellations and no-shows.
 - **Average customer rating of 3.6 is below luxury benchmarks**, negatively impacting demand, rankings, and repeat business.
 
-## Recommendations:
+## Recommendations
 
-Based on the insights and findings above, I would recommend the Revenue Management Team to consider the following:
+- **Action:** Implement demand-based weekend pricing with 10–15% premiums during Friday–Sunday peak periods.  
+  **Expected Impact:** Higher RevPAR with potential ₹50M+ incremental annual revenue without increasing capacity.
 
-* Weekend occupancy reaches 73.6% while weekday occupancy sits at 51.3%, yet pricing shows minimal differentiation. **Implement dynamic weekend pricing with 10-15% premiums during high-demand periods (Friday-Sunday), projected to generate additional ₹50M+ annually while maintaining occupancy levels above 70%.**
+- **Action:** Shift bookings from third-party platforms to direct channels through “Book Direct & Save” offers, SEO/SEM investment, and loyalty programs.  
+  **Expected Impact:** Reduction in commission costs with ₹40–50M annual savings (directional estimate).
 
-* 41% of bookings come through "others" platform, incurring substantial commission costs while limiting direct customer relationships. **Launch a "Book Direct & Save" campaign offering 10% discounts for direct bookings, invest in SEO/SEM for brand.com visibility, and develop a loyalty program targeting business travelers - aim to shift 30% of third-party bookings to direct channels within 12 months, saving ₹40-50M in commissions.**
+- **Action:** Apply Mumbai’s revenue management practices to Delhi properties, supported by competitor pricing analysis and targeted corporate sales initiatives.  
+  **Expected Impact:** 15–20% revenue uplift in Delhi over the short to medium term.
 
-* Delhi properties underperform Mumbai despite similar market potential, showing opportunity gaps in pricing and operations. **Deploy Mumbai's revenue management best practices to Delhi properties, conduct competitor pricing analysis, and implement targeted corporate sales programs for Delhi's strong business travel market - target 15-20% revenue growth in Delhi within 6 months.**
+- **Action:** Introduce tiered cancellation policies, advance-purchase rates, and partial non-refundable deposits during high-demand periods.  
+  **Expected Impact:** A 5% reduction in cancellations could protect approximately ₹35M in annual revenue.
 
-* 24.8% cancellation rate and 70.1% realization percentage indicate significant revenue leakage from booking to check-in conversion. **Introduce tiered cancellation policies with 20% non-refundable deposits for peak periods, implement 72-hour advance cancellation requirements, and offer "flexible rate" vs "advance purchase" pricing tiers - projected 5% reduction in cancellations could protect ₹35M in annual revenue.**
+- **Action:** Increase focus on the Luxury segment through premium packages, targeted leisure marketing, and enhanced amenity positioning in high-performing cities.  
+  **Expected Impact:** Shift luxury revenue mix from 38% to ~45%, improving overall margins.
 
-* Business segment contributes 61.6% of revenue while Luxury segment (higher margin) remains underdeveloped at 38.4%. **Increase luxury segment marketing investment in high-performing cities (Mumbai, Bangalore), develop premium packages targeting leisure travelers and celebrations, and enhance luxury property amenities to justify price premiums - target luxury revenue growth from 38% to 45% of total mix.**
+- **Action:** Deploy an automated Revenue Management System (RMS) for real-time dynamic pricing based on demand forecasts and booking pace.  
+  **Expected Impact:** Typical RMS adoption delivers 5–10% revenue improvement (₹85–170M annually, directional).
 
-* Current ADR of ₹12.7K shows -0.2% decline while occupancy remains moderate at 57.9%, suggesting suboptimal revenue management. **Invest in automated revenue management system (RMS) implementing real-time dynamic pricing based on demand forecasting, competitor rates, and booking pace - successful RMS implementation typically yields 5-10% revenue improvement (₹85-170M annually).**
 
 ### Projected Impact
 
