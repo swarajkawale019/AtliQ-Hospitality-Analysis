@@ -39,51 +39,31 @@ AtliQ Grands generated ₹1.71 billion in revenue across 134.6K bookings with an
 
 ![Dashboard Overview](https://github.com/swarajkawale019/AtliQ-Hospitality-Analysis/blob/main/visuals/Screenshot%20(131).png?raw=true)
 
+
+
+![Dashboard](https://github.com/swarajkawale019/AtliQ-Hospitality-Analysis/blob/main/visuals/Screenshot%20(132).png?raw=true)
+
 ## Insights Deep Dive
 
-### Revenue Performance Analysis:
+### Revenue Performance Analysis
+- **Mumbai is the primary revenue driver (₹668.6M, 39%)**, clearly outperforming other cities and justifying continued investment focus.
+- **Delhi underperforms at ₹294.5M despite similar scale**, indicating pricing and demand-side inefficiencies rather than capacity issues.
+- **Business hotels contribute 61.6% of total revenue**, confirming strong business travel positioning but highlighting missed luxury upside.
 
-* **Mumbai dominates revenue contribution with ₹668.6M (39% of total revenue).** The city shows strong performance across both Luxury and Business segments, with Atliq Exotica Mumbai leading individual property performance at ₹106M. This concentration indicates Mumbai as the flagship market requiring continued investment and expansion.
+### Occupancy & Pricing Optimization
+- **Weekend occupancy (73.6%) far exceeds weekdays (51.3%)**, yet ADR remains nearly flat, resulting in avoidable revenue loss from weak dynamic pricing.
+- **Overall occupancy of 57.9% is below industry benchmarks (65–75%)**, reflecting inefficient capacity utilization.
+- **Premium and Presidential rooms show high pricing power but low occupancy**, signaling targeting and packaging gaps rather than pricing issues.
 
-* **Delhi significantly underperforms at ₹294.5M despite having comparable property count.** Delhi properties show lower occupancy (60.5%) and ADR compared to Mumbai (57.9% occupancy), suggesting market-specific challenges or suboptimal pricing strategies that need immediate attention.
+### Booking Channel Performance
+- **Over-reliance on “Others” channels (41%)** increases commission costs and limits customer ownership.
+- **Direct bookings contribute only 20%**, representing a significant missed margin opportunity.
+- **Fragmented OTA presence** reduces negotiation leverage and visibility on high-impact platforms.
 
-* **Business category contributes 61.6% of total revenue (₹1.09B) compared to Luxury at 38.4%.** This revenue mix indicates AtliQ Grands' strong positioning in the business travel segment, but also reveals untapped potential in the higher-margin luxury segment where competition may be less intense.
-
-* **Week-over-week revenue shows -81.7% decline, while RevPAR increased 27.8%.** This apparent contradiction suggests a significant reduction in available inventory or operational days in recent weeks, while pricing efficiency improved substantially, requiring investigation into capacity utilization strategies.
-
-
-### Occupancy & Pricing Optimization:
-
-* **Weekend occupancy (73.6%) significantly exceeds weekday occupancy (51.3%) by 22.3 percentage points.** This 43% higher weekend demand presents a clear opportunity for premium pricing strategies, yet current ADR shows minimal differentiation (₹12,724 weekend vs ₹12,680 weekday), leaving substantial revenue on the table.
-
-* **Overall occupancy of 57.9% suggests moderate capacity utilization with room for improvement.** Industry benchmarks for luxury hotels typically range 65-75%, indicating AtliQ Grands is underperforming by 7-17 percentage points, representing potential revenue loss of ₹120-290M annually at current ADR levels.
-
-* **ADR declined by -0.2% to ₹12.7K, while realization percentage stands at 70.1%.** The declining ADR trend coupled with 30% revenue leakage (unrealized bookings) indicates pricing pressure and operational inefficiencies in converting bookings to successful check-ins, directly impacting bottom-line performance.
-
-* **Premium and Presidential room classes show highest pricing power but lower occupancy.** These high-value segments require targeted marketing to business executives and luxury travelers, with potential bundle offerings combining room upgrades with amenity packages to drive occupancy without diluting ADR.
-
-
-### Booking Channel Performance:
-
-* **"Others" platform dominates with 41% booking share, creating excessive platform dependency.** This over-reliance on unspecified third-party channels exposes AtliQ Grands to high commission costs (typically 15-25%) and limited customer data access, reducing profitability and customer relationship building opportunities.
-
-* **Direct offline bookings contribute only 20% despite typically offering highest margins.** The underutilization of direct channels represents missed opportunities for commission savings (₹51-85M annually) and direct customer engagement, suggesting inadequate investment in sales teams or corporate account management.
-
-* **MakeYourTrip accounts for just 7% while other major OTAs show minimal contribution.** The fragmented channel mix across multiple small platforms increases operational complexity and negotiation leverage challenges, while potentially missing strategic partnerships with dominant OTAs offering better visibility.
-
-* **Platform-wise performance varies significantly with "journey" showing 70.5% realization vs others at 70.3%.** These minor realization differences suggest relatively consistent quality across channels, but deeper analysis of customer lifetime value and repeat booking rates by channel could reveal more strategic insights.
-
-
-### Operational Efficiency:
-
-* **24.8% cancellation rate represents 33.4K cancelled bookings and substantial revenue leakage.** At current ADR levels, this translates to approximately ₹425M in lost potential revenue annually, with peak periods likely experiencing even higher cancellation rates requiring immediate policy intervention.
-
-* **Realization percentage of 70.1% indicates that only 70% of bookings convert to successful check-ins.** The 30% gap between bookings and realizations (combining cancellations and no-shows) suggests inadequate booking policies, lack of advance deposits, or overly lenient cancellation terms compared to industry standards.
-
-* **Average rating of 3.6 across properties indicates moderate customer satisfaction with improvement potential.** While not critically low, this rating sits below luxury hotel benchmarks (typically 4.2-4.5), potentially impacting repeat bookings and OTA search rankings, requiring focused quality enhancement initiatives.
-
-* **Properties with highest ratings (4.3) don't necessarily generate highest revenue.** This disconnect between customer satisfaction and revenue performance suggests pricing strategies aren't optimized for quality perception, or high-rated properties are in lower-demand markets requiring rebalanced marketing investment allocation.
-
+### Operational Efficiency
+- **High cancellation rate (24.8%) translates to ~₹425M in potential revenue loss**, driven by lenient booking and cancellation policies.
+- **Only 70.1% of bookings convert to stays**, confirming major leakage from cancellations and no-shows.
+- **Average customer rating of 3.6 is below luxury benchmarks**, negatively impacting demand, rankings, and repeat business.
 
 ## Recommendations:
 
