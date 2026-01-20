@@ -82,8 +82,8 @@ Full implementation of these recommendations could potentially increase revenue 
 
 ## Dashboard Preview
 
-![Dashboard Overview]([screenshots/dashboard_overview.png](https://github.com/swarajkawale019/AtliQ-Hospitality-Analysis/blob/0c42188bf31109923cadf6cfadf359f506db11d4/visuals/Screenshot%20(131).png))
-![Property Analysis]([screenshots/property_analysis.png](https://github.com/swarajkawale019/AtliQ-Hospitality-Analysis/blob/0c42188bf31109923cadf6cfadf359f506db11d4/visuals/Screenshot%20(132).png))
+![Dashboard Overview](https://github.com/swarajkawale019/AtliQ-Hospitality-Analysis/blob/0c42188bf31109923cadf6cfadf359f506db11d4/visuals/Screenshot%20(131).png)
+![Property Analysis](https://github.com/swarajkawale019/AtliQ-Hospitality-Analysis/blob/0c42188bf31109923cadf6cfadf359f506db11d4/visuals/Screenshot%20(132).png)
 
 
 ## Key Metrics Defined
