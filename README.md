@@ -83,7 +83,7 @@ AtliQ Grands generated ₹1.71 billion in revenue across 134.6K bookings with an
 
 ## Recommendations:
 
-Based on the insights and findings above, we would recommend the Revenue Management Team to consider the following:
+Based on the insights and findings above, I would recommend the Revenue Management Team to consider the following:
 
 * Weekend occupancy reaches 73.6% while weekday occupancy sits at 51.3%, yet pricing shows minimal differentiation. **Implement dynamic weekend pricing with 10-15% premiums during high-demand periods (Friday-Sunday), projected to generate additional ₹50M+ annually while maintaining occupancy levels above 70%.**
 
@@ -100,23 +100,6 @@ Based on the insights and findings above, we would recommend the Revenue Managem
 ### Projected Impact
 
 Full implementation of these recommendations could potentially increase revenue by 15-20% (₹255-340M) and improve market positioning within 12-18 months, recovering lost market share in the luxury hospitality segment.
-
-
-## Assumptions and Caveats:
-
-Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
-
-* **Data period limited to May-July 2022:** Analysis reflects summer season patterns which may not be representative of full-year performance, particularly missing peak winter holiday season (December-January) and business travel patterns during fiscal year-end periods.
-
-* **"Others" booking platform category aggregates multiple channels:** Without granular breakdown of individual platforms within "others" (41% of bookings), precise commission cost calculations and channel-specific strategies are estimated using industry average commission rates of 15-25%.
-
-* **Revenue data represents realized revenue only:** Analysis focuses on revenue_realized for successful bookings and doesn't account for partial payments, advance deposits, or ancillary revenue from F&B, spa, and other services which could represent additional 20-30% of room revenue.
-
-* **Property-level operational costs not available:** ROI and profitability analysis by property is limited without OPEX data; recommendations focus on revenue optimization while acknowledging that high-revenue properties may not always be most profitable if operating costs vary significantly.
-
-* **Competitive pricing data not included in dataset:** Recommendations for pricing strategies are based on internal performance patterns and industry benchmarks rather than real-time competitor rate analysis, which would provide more precise optimal pricing guidance.
-
-* **Customer segmentation data limited:** Without detailed guest demographics (corporate vs. leisure, domestic vs. international, first-time vs. repeat), recommendations are broad-based rather than segment-specific, potentially missing micro-optimization opportunities.
 
 
 ## Tools & Technologies Used
