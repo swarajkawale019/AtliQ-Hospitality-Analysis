@@ -15,6 +15,10 @@ Insights and recommendations are provided on the following key areas:
 
 The Power BI dashboard with interactive visualizations can be found here 👉 [**Live Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiY2MwNDk2NmQtYWJjYy00ZmYwLTg4NzQtZmU4ZmNkYzcyOGRjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
 
+## Methodology
+
+Analyzed historical booking data (May–July 2022) from five interconnected tables using Power BI. Cleaned and transformed data with Power Query, designed an optimized star schema data model, and developed 25+ DAX measures covering revenue, occupancy, pricing, utilization, and realization metrics aligned with hospitality industry standards. Implemented time intelligence for week-on-week trend analysis and built an interactive dashboard following stakeholder mock-ups, enabling performance monitoring across cities, properties, room categories, and booking platforms to support data-driven revenue optimization.
+
 ## Data Structure & Initial Checks
 
 AtliQ Grands' database structure consists of five tables with a star schema design, containing booking and property data from May 2022 to July 2022. The total dataset comprises 134,590 booking records across 25 properties. A description of each table is as follows:
