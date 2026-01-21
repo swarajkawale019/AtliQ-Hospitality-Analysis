@@ -1,4 +1,4 @@
-# AtliQ-Hospitality-Analytics
+# AtliQ-Hospitality-Analysis
 
 ## Project Background
 
